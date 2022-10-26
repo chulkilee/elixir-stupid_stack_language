@@ -1,0 +1,9 @@
+*.ez
+/_build/
+/.fetch
+/cover/
+/deps/
+/doc/
+/tmp/
+erl_crash.dump
+stupid_stack_language-*.tar
